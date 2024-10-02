@@ -1,4 +1,5 @@
 <?php
+	// test comment
 	session_start();
 
 	if ($_GET["action"]=="add") {
